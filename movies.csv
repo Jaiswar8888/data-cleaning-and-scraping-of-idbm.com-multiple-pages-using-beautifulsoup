@@ -1,0 +1,1001 @@
+Movie,Year,RunTime,imdb,Genre,votes
+CODA,2021,111 minutes,8.1,"Comedy, Drama, Music",93032
+The Batman,2022,176 minutes,8.3,"Action, Crime, Drama",318759
+RRR (Rise Roar Revolt),2022,187 minutes,9.0,"Action, Drama",49169
+Dune: Part One,2021,155 minutes,8.1,"Action, Adventure, Drama",539752
+Spider-Man: No Way Home,2021,148 minutes,8.5,"Action, Adventure, Fantasy",579950
+Doraibu mai kâ,2021,179 minutes,7.6,Drama,33740
+The Godfather,1972,175 minutes,9.2,"Crime, Drama",1770951
+Verdens verste menneske,2021,128 minutes,7.9,"Comedy, Drama, Romance",35988
+Blade Runner 2049,2017,164 minutes,8.0,"Action, Drama, Mystery",535135
+The Dark Knight,2008,152 minutes,9.1,"Action, Crime, Drama",2537858
+Once Upon a Time in... Hollywood,2019,161 minutes,7.6,"Comedy, Drama",681732
+Zack Snyder's Justice League,2021,242 minutes,8.1,"Action, Adventure, Fantasy",371320
+The Shawshank Redemption,1994,142 minutes,9.3,Drama,2571754
+Avengers: Endgame,2019,181 minutes,8.4,"Action, Adventure, Drama",1036798
+Pulp Fiction,1994,154 minutes,8.9,"Crime, Drama",1974053
+Interstellar,2014,169 minutes,8.7,"Adventure, Drama, Sci-Fi",1715917
+The Dark Knight Rises,2012,164 minutes,8.4,"Action, Crime, Drama",1642694
+Joker,2019,122 minutes,8.4,"Crime, Drama, Thriller",1175253
+Batman Begins,2005,140 minutes,8.3,"Action, Crime, Drama",1418138
+Harry Potter and the Sorcerer's Stone,2001,152 minutes,7.6,"Adventure, Family, Fantasy",747490
+The Godfather: Part II,1974,202 minutes,9.0,"Crime, Drama",1224730
+Gisaengchung,2019,132 minutes,8.5,"Comedy, Drama, Horror",733463
+American Psycho,2000,102 minutes,7.6,"Crime, Drama, Horror",560077
+Blade Runner,1982,117 minutes,8.1,"Action, Drama, Sci-Fi",745519
+The Wolf of Wall Street,2013,180 minutes,8.2,"Biography, Comedy, Crime",1331577
+Braveheart,1995,178 minutes,8.4,"Biography, Drama, History",1013380
+Knives Out,2019,130 minutes,7.9,"Comedy, Crime, Drama",583974
+Inception,2010,148 minutes,8.8,"Action, Adventure, Sci-Fi",2257184
+Heat,1995,170 minutes,8.3,"Action, Crime, Drama",630727
+The Mitchells vs the Machines,2021,113 minutes,7.7,"Animation, Adventure, Comedy",98496
+Prisoners,2013,153 minutes,8.1,"Crime, Drama, Mystery",674315
+Titanic,1997,194 minutes,7.9,"Drama, Romance",1128271
+Fight Club,1999,139 minutes,8.8,Drama,2023822
+Kingsman: The Secret Service,2014,129 minutes,7.7,"Action, Adventure, Comedy",649317
+Dunkirk,2017,106 minutes,7.8,"Action, Drama, History",627718
+Requiem for a Dream,2000,102 minutes,8.3,Drama,817483
+Mad Max: Fury Road,2015,120 minutes,8.1,"Action, Adventure, Sci-Fi",963548
+Jojo Rabbit,2019,108 minutes,7.9,"Comedy, Drama, War",364432
+Avengers: Infinity War,2018,149 minutes,8.5,"Action, Adventure, Sci-Fi",1001437
+Inglourious Basterds,2009,153 minutes,8.3,"Adventure, Drama, War",1386513
+Django Unchained,2012,165 minutes,8.5,"Drama, Western",1486442
+Goodfellas,1990,145 minutes,8.7,"Biography, Crime, Drama",1109737
+To Kill a Mockingbird,1962,129 minutes,8.3,"Crime, Drama",310743
+The Lord of the Rings: The Fellowship of the Ring,2001,178 minutes,8.9,"Action, Adventure, Drama",1790697
+The Gentlemen,2019,113 minutes,7.8,"Action, Comedy, Crime",309378
+Deadpool,2016,108 minutes,8.0,"Action, Adventure, Comedy",990444
+The Green Mile,1999,189 minutes,8.6,"Crime, Drama, Fantasy",1250579
+Ford v Ferrari,2019,152 minutes,8.1,"Action, Biography, Drama",362356
+Se7en,1995,127 minutes,8.6,"Crime, Drama, Mystery",1577247
+Green Book,2018,130 minutes,8.2,"Biography, Comedy, Drama",459559
+Whiplash,2014,106 minutes,8.5,"Drama, Music",802321
+Call Me by Your Name,2017,132 minutes,7.9,"Drama, Romance",255063
+Little Women,2019,135 minutes,7.8,"Drama, Romance",188808
+Forrest Gump,1994,142 minutes,8.8,"Drama, Romance",1983826
+Gladiator,2000,155 minutes,8.5,"Action, Adventure, Drama",1446978
+Schindler's List,1993,195 minutes,9.0,"Biography, Drama, History",1310127
+There Will Be Blood,2007,158 minutes,8.2,Drama,566761
+The Silence of the Lambs,1991,118 minutes,8.6,"Crime, Drama, Thriller",1378708
+The Help,2011,146 minutes,8.1,Drama,447930
+Guardians of the Galaxy,2014,121 minutes,8.1,"Action, Adventure, Comedy",1133688
+Jurassic Park,1993,127 minutes,8.2,"Action, Adventure, Sci-Fi",940823
+Little Miss Sunshine,2006,101 minutes,7.8,"Comedy, Drama",467832
+Gone Girl,2014,149 minutes,8.1,"Drama, Mystery, Thriller",945992
+Spider-Man: Into the Spider-Verse,2018,117 minutes,8.4,"Animation, Action, Adventure",482686
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143 minutes,8.1,"Action, Adventure, Fantasy",1072385
+Bohemian Rhapsody,2018,134 minutes,8.0,"Biography, Drama, Music",513226
+Avatar,2009,162 minutes,7.9,"Action, Adventure, Fantasy",1187295
+No Country for Old Men,2007,122 minutes,8.2,"Crime, Drama, Thriller",936535
+The Matrix,1999,136 minutes,8.7,"Action, Sci-Fi",1850594
+Watchmen,2009,162 minutes,7.7,"Action, Drama, Mystery",539356
+Ex Machina,2014,108 minutes,7.7,"Drama, Sci-Fi, Thriller",522745
+The Fifth Element,1997,126 minutes,7.7,"Action, Adventure, Sci-Fi",461657
+Star Wars,1977,121 minutes,8.6,"Action, Adventure, Fantasy",1315618
+Pride & Prejudice,2005,129 minutes,7.8,"Drama, Romance",285960
+Gone with the Wind,1939,238 minutes,8.2,"Drama, History, Romance",309013
+Die Hard,1988,132 minutes,8.3,"Action, Thriller",854190
+Deadpool 2,2018,119 minutes,7.7,"Action, Adventure, Comedy",549061
+The Prestige,2006,130 minutes,8.5,"Drama, Mystery, Thriller",1287891
+1917,2019,119 minutes,8.3,"Action, Drama, War",543273
+Saving Private Ryan,1998,169 minutes,8.6,"Drama, War",1339692
+Get Out,2017,104 minutes,7.7,"Horror, Mystery, Thriller",556804
+Apocalypse Now,1979,147 minutes,8.5,"Drama, Mystery, War",648104
+Good Will Hunting,1997,126 minutes,8.3,"Drama, Romance",932862
+American Beauty,1999,122 minutes,8.4,Drama,1128417
+Eternal Sunshine of the Spotless Mind,2004,108 minutes,8.3,"Drama, Romance, Sci-Fi",976527
+Taxi Driver,1976,114 minutes,8.3,"Crime, Drama",791500
+Boogie Nights,1997,155 minutes,7.9,Drama,258467
+The Departed,2006,151 minutes,8.5,"Crime, Drama, Thriller",1280020
+Sicario,2015,121 minutes,7.7,"Action, Crime, Drama",414240
+Hacksaw Ridge,2016,139 minutes,8.1,"Biography, Drama, History",497846
+Léon,1994,110 minutes,8.6,"Action, Crime, Drama",1121038
+The Father,2020,97 minutes,8.3,"Drama, Mystery",131610
+Tombstone,1993,130 minutes,7.8,"Action, Biography, Drama",143079
+La La Land,2016,128 minutes,8.0,"Comedy, Drama, Music",561932
+Back to the Future,1985,116 minutes,8.6,"Adventure, Comedy, Sci-Fi",1154378
+Hamilton,2020,160 minutes,8.4,"Biography, Drama, History",85525
+The Lord of the Rings: The Return of the King,2003,201 minutes,9.0,"Action, Adventure, Drama",1769052
+The Irishman,2019,209 minutes,7.8,"Biography, Crime, Drama",369351
+The Godfather: Part III,1990,162 minutes,7.6,"Crime, Drama",385776
+Ghostbusters,1984,105 minutes,7.8,"Action, Comedy, Fantasy",402978
+Her,2013,126 minutes,8.0,"Drama, Romance, Sci-Fi",588919
+Shutter Island,2010,138 minutes,8.2,"Mystery, Thriller",1250341
+Moana,2016,107 minutes,7.6,"Animation, Adventure, Comedy",317956
+Alien,1979,117 minutes,8.5,"Horror, Sci-Fi",849523
+Man on Fire,2004,146 minutes,7.7,"Action, Crime, Drama",355147
+The Imitation Game,2014,114 minutes,8.0,"Biography, Drama, Thriller",744519
+Thor: Ragnarok,2017,130 minutes,7.9,"Action, Adventure, Comedy",690434
+The Blind Side,2009,129 minutes,7.6,"Biography, Drama, Sport",321661
+The Sixth Sense,1999,107 minutes,8.2,"Drama, Mystery, Thriller",965243
+The Pursuit of Happyness,2006,117 minutes,8.0,"Biography, Drama",493174
+300,2006,117 minutes,7.6,"Action, Drama",799666
+12 Angry Men,1957,96 minutes,9.0,"Crime, Drama",759513
+Baby Driver,2017,113 minutes,7.6,"Action, Crime, Drama",507896
+The Shining,1980,146 minutes,8.4,"Drama, Horror",979760
+The Big Short,2015,130 minutes,7.8,"Biography, Comedy, Drama",413240
+Iron Man,2008,126 minutes,7.9,"Action, Adventure, Sci-Fi",1021309
+The Princess Bride,1987,98 minutes,8.0,"Adventure, Family, Fantasy",419627
+Harry Potter and the Goblet of Fire,2005,157 minutes,7.7,"Adventure, Family, Fantasy",603970
+The Goonies,1985,114 minutes,7.7,"Adventure, Comedy, Family",263775
+Mission: Impossible - Fallout,2018,147 minutes,7.7,"Action, Adventure, Thriller",319442
+Harry Potter and the Deathly Hallows: Part 2,2011,130 minutes,8.2,"Adventure, Fantasy, Mystery",840554
+The Martian,2015,144 minutes,8.0,"Adventure, Drama, Sci-Fi",824001
+The Grand Budapest Hotel,2014,99 minutes,8.1,"Adventure, Comedy, Crime",776777
+A Clockwork Orange,1971,136 minutes,8.3,"Crime, Sci-Fi",806643
+12 Years a Slave,2013,134 minutes,8.1,"Biography, Drama, History",683214
+Training Day,2001,122 minutes,7.7,"Action, Crime, Drama",422487
+The Usual Suspects,1995,106 minutes,8.5,"Crime, Drama, Mystery",1056861
+Zootopia,2016,108 minutes,8.0,"Animation, Adventure, Comedy",478775
+Ratatouille,2007,111 minutes,8.1,"Animation, Adventure, Comedy",697328
+Stand by Me,1986,89 minutes,8.1,"Adventure, Drama",391406
+Scarface,1983,170 minutes,8.3,"Crime, Drama",806693
+The Hobbit: An Unexpected Journey,2012,169 minutes,7.8,"Adventure, Fantasy",801159
+The Lion King,1994,88 minutes,8.5,"Animation, Adventure, Drama",1018683
+The Social Network,2010,120 minutes,7.8,"Biography, Drama",679864
+Drive,2011,100 minutes,7.8,"Action, Drama",614751
+The Avengers,2012,143 minutes,8.1,"Action, Adventure, Sci-Fi",1348266
+Shrek,2001,90 minutes,7.9,"Animation, Adventure, Comedy",656782
+Sen to Chihiro no kamikakushi,2001,125 minutes,8.6,"Animation, Adventure, Family",727007
+L.A. Confidential,1997,138 minutes,8.3,"Crime, Drama, Mystery",569171
+Dallas Buyers Club,2013,117 minutes,8.0,"Biography, Drama",475591
+Memento,2000,113 minutes,8.5,"Mystery, Thriller",1202546
+Argo,2012,120 minutes,7.7,"Biography, Drama, Thriller",603649
+The Truman Show,1998,103 minutes,8.2,"Comedy, Drama",1029285
+Ah-ga-ssi,2016,145 minutes,8.1,"Drama, Romance, Thriller",137105
+The Hangover,2009,100 minutes,7.7,Comedy,764400
+Zodiac,2007,157 minutes,7.7,"Crime, Drama, Mystery",520809
+One Flew Over the Cuckoo's Nest,1975,133 minutes,8.7,Drama,979347
+Atonement,2007,123 minutes,7.8,"Drama, Mystery, Romance",271323
+Jaws,1975,124 minutes,8.1,"Adventure, Thriller",579712
+Wind River,2017,107 minutes,7.7,"Crime, Drama, Mystery",241422
+Arrival,2016,116 minutes,7.9,"Drama, Sci-Fi",665806
+Aliens,1986,137 minutes,8.4,"Action, Adventure, Sci-Fi",696802
+Full Metal Jacket,1987,116 minutes,8.3,"Drama, War",720938
+Lawrence of Arabia,1962,218 minutes,8.3,"Adventure, Biography, Drama",286907
+"Three Billboards Outside Ebbing, Missouri",2017,115 minutes,8.1,"Comedy, Crime, Drama",487142
+Crash,2004,112 minutes,7.8,"Crime, Drama, Thriller",432549
+The Hateful Eight,2015,168 minutes,7.8,"Crime, Drama, Mystery",575151
+The Last Emperor,1987,163 minutes,7.7,"Biography, Drama, History",101312
+Once Upon a Time in America,1984,229 minutes,8.4,"Crime, Drama",341161
+What We Do in the Shadows,2014,86 minutes,7.7,"Comedy, Horror",176637
+Star Wars: Episode VII - The Force Awakens,2015,138 minutes,7.9,"Action, Adventure, Sci-Fi",905802
+Coco,2017,105 minutes,8.4,"Animation, Adventure, Comedy",471975
+Office Space,1999,89 minutes,7.7,Comedy,259397
+Oldeuboi,2003,101 minutes,8.4,"Action, Drama, Mystery",559165
+Black Swan,2010,108 minutes,8.0,"Drama, Thriller",743239
+The Girl with the Dragon Tattoo,2011,158 minutes,7.8,"Crime, Drama, Mystery",453773
+Silver Linings Playbook,2012,122 minutes,7.7,"Comedy, Drama, Romance",696557
+Donnie Darko,2001,113 minutes,8.0,"Drama, Mystery, Sci-Fi",780906
+Harry Potter and the Prisoner of Azkaban,2004,142 minutes,7.9,"Adventure, Family, Fantasy",610537
+Snatch,2000,104 minutes,8.3,"Comedy, Crime",833467
+Jai Bhim,2021,164 minutes,9.4,"Crime, Drama, Mystery",184948
+Nightcrawler,2014,117 minutes,7.9,"Crime, Drama, Thriller",519397
+Star Wars: Episode VI - Return of the Jedi,1983,131 minutes,8.3,"Action, Adventure, Fantasy",1016662
+Reservoir Dogs,1992,99 minutes,8.3,"Crime, Drama, Thriller",986366
+The Pianist,2002,150 minutes,8.6,"Biography, Drama, Music",801109
+Casino Royale,2006,144 minutes,8.0,"Action, Adventure, Thriller",641769
+The Big Lebowski,1998,117 minutes,8.1,"Comedy, Crime",787404
+Kill Bill: Vol. 1,2003,111 minutes,8.2,"Action, Crime, Drama",1079059
+Casablanca,1942,102 minutes,8.5,"Drama, Romance, War",557435
+Brokeback Mountain,2005,134 minutes,7.7,"Drama, Romance",348769
+Rogue One,2016,133 minutes,7.8,"Action, Adventure, Sci-Fi",602241
+True Romance,1993,119 minutes,7.9,"Crime, Drama, Romance",222347
+"Il buono, il brutto, il cattivo",1966,161 minutes,8.8,"Adventure, Western",739414
+La vie d'Adèle,2013,180 minutes,7.7,"Drama, Romance",148762
+Fargo,1996,98 minutes,8.1,"Crime, Thriller",661467
+Dead Poets Society,1989,128 minutes,8.1,"Comedy, Drama",468950
+2001: A Space Odyssey,1968,149 minutes,8.3,"Adventure, Sci-Fi",648774
+Soul,2020,100 minutes,8.1,"Animation, Adventure, Comedy",305880
+Sin City,2005,124 minutes,8.0,"Crime, Thriller",758810
+The Notebook,2004,123 minutes,7.8,"Drama, Romance",556107
+The Revenant,2015,156 minutes,8.0,"Action, Adventure, Drama",773912
+Manchester by the Sea,2016,137 minutes,7.8,Drama,272266
+The Perks of Being a Wallflower,2012,103 minutes,8.0,"Drama, Romance",495992
+Catch Me If You Can,2002,141 minutes,8.1,"Biography, Crime, Drama",932475
+Raiders of the Lost Ark,1981,115 minutes,8.4,"Action, Adventure",940099
+Spotlight,2015,129 minutes,8.1,"Biography, Crime, Drama",457337
+Captain America: Civil War,2016,147 minutes,7.8,"Action, Adventure, Sci-Fi",747854
+V for Vendetta,2005,132 minutes,8.2,"Action, Drama, Sci-Fi",1095161
+Logan,2017,137 minutes,8.1,"Action, Drama, Sci-Fi",723239
+Finding Nemo,2003,100 minutes,8.2,"Animation, Adventure, Comedy",1012756
+Superbad,2007,113 minutes,7.6,Comedy,560181
+Casino,1995,178 minutes,8.2,"Crime, Drama",503680
+The Lord of the Rings: The Two Towers,2002,179 minutes,8.8,"Action, Adventure, Drama",1598149
+Druk,2020,117 minutes,7.7,"Comedy, Drama",140123
+Hot Fuzz,2007,121 minutes,7.8,"Action, Comedy, Mystery",494059
+Hidden Figures,2016,127 minutes,7.8,"Biography, Drama, History",221316
+Dances with Wolves,1990,181 minutes,8.1,"Adventure, Drama, Western",258309
+Ferris Bueller's Day Off,1986,103 minutes,7.8,Comedy,346569
+Inside Out,2015,95 minutes,8.2,"Animation, Adventure, Comedy",683381
+Guardians of the Galaxy Vol. 2,2017,136 minutes,7.6,"Action, Adventure, Comedy",644695
+Hell or High Water,2016,102 minutes,7.6,"Action, Crime, Drama",224004
+Moonrise Kingdom,2012,94 minutes,7.8,"Comedy, Drama, Romance",342681
+About Time,2013,123 minutes,7.8,"Comedy, Drama, Fantasy",335325
+The Breakfast Club,1985,97 minutes,7.8,"Comedy, Drama",383991
+Cidade de Deus,2002,130 minutes,8.6,"Crime, Drama",738629
+The Intouchables,2011,112 minutes,8.5,"Biography, Comedy, Drama",827327
+The Terminator,1984,107 minutes,8.1,"Action, Sci-Fi",838256
+Baahubali 2: The Conclusion,2017,167 minutes,8.3,"Action, Drama",88572
+Trainspotting,1996,93 minutes,8.2,Drama,671479
+Mulholland Dr.,2001,147 minutes,7.9,"Drama, Mystery, Thriller",346705
+All About Eve,1950,138 minutes,8.3,Drama,129110
+A Star Is Born,2018,136 minutes,7.6,"Drama, Music, Romance",371264
+Terminator 2: Judgment Day,1991,137 minutes,8.6,"Action, Sci-Fi",1063582
+Birdman or (The Unexpected Virtue of Ignorance),2014,119 minutes,7.7,"Comedy, Drama",615826
+The Empire Strikes Back,1980,124 minutes,8.7,"Action, Adventure, Fantasy",1244135
+Unforgiven,1992,130 minutes,8.2,"Drama, Western",402477
+Jagten,2012,115 minutes,8.3,Drama,317533
+American History X,1998,119 minutes,8.5,Drama,1092588
+Moneyball,2011,133 minutes,7.6,"Biography, Drama, Sport",408623
+The Exorcist,1973,122 minutes,8.1,Horror,389621
+Warrior,2011,140 minutes,8.2,"Action, Drama, Sport",461674
+Gattaca,1997,106 minutes,7.8,"Drama, Sci-Fi, Thriller",297204
+Kick-Ass,2010,117 minutes,7.6,"Action, Comedy, Crime",551426
+Harry Potter and the Half-Blood Prince,2009,153 minutes,7.6,"Action, Adventure, Family",524567
+Midnight in Paris,2011,94 minutes,7.7,"Comedy, Fantasy, Romance",414598
+Harry Potter and the Deathly Hallows: Part 1,2010,146 minutes,7.7,"Adventure, Family, Fantasy",527787
+Stardust,2007,127 minutes,7.6,"Adventure, Family, Fantasy",268592
+Hauru no ugoku shiro,2004,119 minutes,8.2,"Animation, Adventure, Family",376337
+Blue Velvet,1986,120 minutes,7.7,"Crime, Drama, Mystery",194263
+The Incredibles,2004,115 minutes,8.1,"Animation, Action, Adventure",704911
+Toy Story,1995,81 minutes,8.3,"Animation, Adventure, Comedy",958665
+Falling Down,1993,113 minutes,7.6,"Action, Crime, Drama",185522
+Psycho,1960,109 minutes,8.5,"Horror, Mystery, Thriller",650411
+Star Trek,2009,127 minutes,8.0,"Action, Adventure, Sci-Fi",596965
+X: First Class,2011,131 minutes,7.7,"Action, Adventure, Sci-Fi",677765
+RoboCop,1987,102 minutes,7.6,"Action, Crime, Sci-Fi",251449
+Skyfall,2012,143 minutes,7.8,"Action, Adventure, Thriller",682593
+Into the Wild,2007,148 minutes,8.1,"Adventure, Biography, Drama",610008
+La vita è bella,1997,116 minutes,8.6,"Comedy, Drama, Romance",673519
+Almost Famous,2000,122 minutes,7.9,"Adventure, Comedy, Drama",271324
+A Beautiful Mind,2001,135 minutes,8.2,"Biography, Drama",906353
+Black Hawk Down,2001,144 minutes,7.7,"Action, Drama, History",387619
+Star Wars: Episode III - Revenge of the Sith,2005,140 minutes,7.6,"Action, Adventure, Fantasy",760066
+Twelve Monkeys,1995,129 minutes,8.0,"Mystery, Sci-Fi, Thriller",606861
+Love Actually,2003,135 minutes,7.6,"Comedy, Drama, Romance",473367
+Pan's Labyrinth,2006,118 minutes,8.2,"Drama, Fantasy, War",653926
+The Wizard of Oz,1939,102 minutes,8.1,"Adventure, Family, Fantasy",388072
+Inside Man,2006,129 minutes,7.6,"Crime, Drama, Mystery",364741
+Rush,2013,123 minutes,8.1,"Action, Biography, Drama",466422
+Taken,2008,90 minutes,7.8,"Action, Crime, Thriller",591788
+Amadeus,1984,160 minutes,8.4,"Biography, Drama, Music",392093
+Sound of Metal,2019,120 minutes,7.7,"Drama, Music",117827
+A Few Good Men,1992,138 minutes,7.7,"Drama, Thriller",255137
+The Deer Hunter,1978,183 minutes,8.1,"Drama, War",332484
+Idi i smotri,1985,142 minutes,8.4,"Drama, Thriller, War",74008
+The Bridge on the River Kwai,1957,161 minutes,8.2,"Adventure, Drama, War",216319
+Singin' in the Rain,1952,103 minutes,8.3,"Comedy, Musical, Romance",235867
+Cabaret,1972,124 minutes,7.8,"Drama, Music, Musical",53752
+The Last Samurai,2003,154 minutes,7.8,"Action, Drama",427622
+Mystic River,2003,138 minutes,7.9,"Crime, Drama, Mystery",447564
+The Game,1997,129 minutes,7.8,"Drama, Mystery, Thriller",381910
+Apocalypto,2006,139 minutes,7.8,"Action, Adventure, Drama",306657
+The Sound of Music,1965,172 minutes,8.1,"Biography, Drama, Family",224747
+Mary Poppins,1964,139 minutes,7.8,"Comedy, Family, Fantasy",168606
+E.T. the Extra-Terrestrial,1982,115 minutes,7.9,"Adventure, Family, Sci-Fi",397237
+The Artist,2011,100 minutes,7.9,"Comedy, Drama, Romance",239231
+Despicable Me,2010,95 minutes,7.6,"Animation, Adventure, Comedy",531105
+The Curious Case of Benjamin Button,2008,166 minutes,7.8,"Drama, Fantasy, Romance",632508
+Room,2015,118 minutes,8.1,"Drama, Thriller",406796
+The Thing,1982,109 minutes,8.2,"Horror, Mystery, Sci-Fi",407464
+The Hobbit: The Desolation of Smaug,2013,161 minutes,7.8,"Adventure, Fantasy",640464
+Up,2009,96 minutes,8.3,"Animation, Adventure, Comedy",1009148
+Home Alone,1990,103 minutes,7.7,"Comedy, Family",550719
+Edge of Tomorrow,2014,113 minutes,7.9,"Action, Adventure, Sci-Fi",652976
+Ocean's Eleven,2001,116 minutes,7.7,"Crime, Thriller",555760
+Rocky,1976,120 minutes,8.1,"Drama, Sport",557366
+X-Men: Days of Future Past,2014,132 minutes,8.0,"Action, Adventure, Sci-Fi",695337
+Kimi no na wa.,2016,106 minutes,8.4,"Animation, Drama, Fantasy",246801
+Shaun of the Dead,2004,99 minutes,7.9,"Comedy, Horror",544291
+Incendies,2010,131 minutes,8.3,"Drama, Mystery, War",170918
+All That Jazz,1979,123 minutes,7.8,"Drama, Music, Musical",31151
+Dark Waters,2019,126 minutes,7.6,"Biography, Drama, History",83159
+"Monsters, Inc.",2001,92 minutes,8.1,"Animation, Adventure, Comedy",878883
+My Cousin Vinny,1992,120 minutes,7.6,"Comedy, Crime",120896
+Midnight Cowboy,1969,113 minutes,7.8,Drama,109192
+Predator,1987,107 minutes,7.8,"Action, Adventure, Horror",398317
+Airplane!,1980,88 minutes,7.7,Comedy,232192
+Platoon,1986,120 minutes,8.1,"Drama, War",405082
+The Butterfly Effect,2004,113 minutes,7.6,"Drama, Sci-Fi, Thriller",478743
+Children of Men,2006,109 minutes,7.9,"Action, Drama, Sci-Fi",490605
+K.G.F: Chapter 1,2018,156 minutes,8.5,"Action, Crime, Drama",60666
+Le fabuleux destin d'Amélie Poulain,2001,122 minutes,8.3,"Comedy, Romance",740883
+3 Idiots,2009,170 minutes,8.5,"Comedy, Drama",383484
+Captain America: The Winter Soldier,2014,136 minutes,7.8,"Action, Adventure, Sci-Fi",811249
+The Lego Movie,2014,100 minutes,7.7,"Animation, Action, Adventure",344538
+The Count of Monte Cristo,2002,131 minutes,7.7,"Action, Adventure, Drama",136033
+Willy Wonka & the Chocolate Factory,1971,100 minutes,7.8,"Family, Fantasy, Musical",195541
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95 minutes,8.4,"Comedy, War",478398
+Blood Diamond,2006,143 minutes,8.0,"Adventure, Drama, Thriller",534981
+Bãhubali: The Beginning,2015,159 minutes,8.1,"Action, Drama",114767
+Slumdog Millionaire,2008,120 minutes,8.0,"Drama, Romance",831508
+Magnolia,1999,188 minutes,8.0,Drama,306963
+Empire of the Sun,1987,153 minutes,7.7,"Drama, History, War",123515
+Saw,2004,103 minutes,7.6,"Horror, Mystery, Thriller",408859
+The Reader,2008,124 minutes,7.6,"Drama, Romance",240820
+Tangled,2010,100 minutes,7.8,"Animation, Adventure, Comedy",438153
+The Ten Commandments,1956,220 minutes,7.9,"Adventure, Drama, Family",69002
+How to Train Your Dragon,2010,98 minutes,8.1,"Animation, Action, Adventure",716118
+Salinui chueok,2003,131 minutes,8.1,"Crime, Drama, Mystery",170746
+WALL·E,2008,98 minutes,8.4,"Animation, Adventure, Family",1078483
+Halloween,1978,91 minutes,7.7,"Horror, Thriller",264733
+Chinatown,1974,130 minutes,8.2,"Drama, Mystery, Thriller",318356
+The Lives of Others,2006,137 minutes,8.4,"Drama, Mystery, Thriller",381944
+Sherlock Holmes,2009,128 minutes,7.6,"Action, Adventure, Mystery",618037
+Marriage Story,2019,137 minutes,7.9,"Drama, Romance",292033
+Blazing Saddles,1974,93 minutes,7.7,"Comedy, Western",135927
+True Grit,2010,110 minutes,7.6,"Drama, Western",332612
+"O Brother, Where Art Thou?",2000,107 minutes,7.7,"Adventure, Comedy, Crime",305174
+Big Fish,2003,125 minutes,8.0,"Adventure, Drama, Fantasy",434677
+The Sandlot,1993,101 minutes,7.8,"Comedy, Drama, Family",88427
+Remember the Titans,2000,113 minutes,7.8,"Biography, Drama, Sport",210734
+Kung Fu Panda,2008,92 minutes,7.6,"Animation, Action, Adventure",453495
+Toy Story 4,2019,100 minutes,7.7,"Animation, Adventure, Comedy",236285
+The Last of the Mohicans,1992,112 minutes,7.7,"Action, Adventure, Drama",165064
+Million Dollar Baby,2004,132 minutes,8.1,"Drama, Sport",673044
+Gravity,2013,91 minutes,7.7,"Action, Drama, Sci-Fi",809440
+The Bourne Identity,2002,119 minutes,7.9,"Action, Mystery, Thriller",536611
+Captain Fantastic,2016,118 minutes,7.8,"Comedy, Drama",212861
+Der Untergang,2004,156 minutes,8.2,"Biography, Drama, History",349112
+Incredibles 2,2018,118 minutes,7.6,"Animation, Action, Adventure",283145
+Misery,1990,107 minutes,7.8,"Drama, Thriller",202254
+(500) Days of Summer,2009,95 minutes,7.7,"Comedy, Drama, Romance",500932
+The Best Years of Our Lives,1946,170 minutes,8.1,"Drama, Romance, War",62741
+Lost in Translation,2003,102 minutes,7.7,"Comedy, Drama",443223
+American Gangster,2007,157 minutes,7.8,"Biography, Crime, Drama",417645
+"Lock, Stock and Two Smoking Barrels",1998,107 minutes,8.2,"Action, Comedy, Crime",568979
+Indiana Jones and the Last Crusade,1989,127 minutes,8.3,"Action, Adventure",735511
+Hotaru no haka,1988,89 minutes,8.5,"Animation, Drama, War",264899
+Wonder,2017,113 minutes,7.9,"Drama, Family",159285
+Before Sunrise,1995,101 minutes,8.1,"Drama, Romance",297027
+Die Hard: With a Vengeance,1995,128 minutes,7.6,"Action, Adventure, Thriller",381465
+The King's Speech,2010,118 minutes,8.0,"Biography, Drama, History",669173
+Being John Malkovich,1999,113 minutes,7.8,"Comedy, Drama, Fantasy",329236
+Rain Man,1988,133 minutes,8.0,Drama,501427
+Road to Perdition,2002,117 minutes,7.7,"Crime, Drama, Thriller",262688
+Ben-Hur,1959,212 minutes,8.1,"Adventure, Drama, History",234301
+Mononoke-hime,1997,134 minutes,8.4,"Animation, Action, Adventure",379777
+The Fugitive,1993,130 minutes,7.8,"Action, Crime, Drama",287413
+The Machinist,2004,101 minutes,7.7,"Drama, Thriller",380487
+The Fighter,2010,116 minutes,7.8,"Action, Biography, Drama",358886
+Kill Bill: Vol. 2,2004,137 minutes,8.0,"Action, Crime, Thriller",733977
+The Fly,1986,96 minutes,7.6,"Drama, Horror, Sci-Fi",175419
+Cast Away,2000,143 minutes,7.8,"Adventure, Drama, Romance",573325
+Moon,2009,97 minutes,7.8,"Drama, Mystery, Sci-Fi",352743
+Beauty and the Beast,1991,84 minutes,8.1,"Animation, Family, Fantasy",439526
+The Sting,1973,129 minutes,8.3,"Comedy, Crime, Drama",256581
+The Trial of the Chicago 7,2020,129 minutes,7.8,"Drama, History, Thriller",169812
+Coraline,2009,100 minutes,7.7,"Animation, Drama, Family",217876
+3:10 to Yuma,2007,122 minutes,7.7,"Action, Crime, Drama",305184
+Once Upon a Time in the West,1968,165 minutes,8.5,Western,322245
+The Graduate,1967,106 minutes,8.0,"Comedy, Drama, Romance",268487
+Capharnaüm,2018,126 minutes,8.4,Drama,83677
+Män som hatar kvinnor,2009,152 minutes,7.8,"Crime, Drama, Mystery",215308
+Y tu mamá también,2001,106 minutes,7.7,Drama,121398
+Philadelphia,1993,125 minutes,7.7,Drama,237473
+Toy Story 3,2010,103 minutes,8.3,"Animation, Adventure, Comedy",809953
+The Little Mermaid,1989,83 minutes,7.6,"Animation, Adventure, Comedy",254621
+Sense and Sensibility,1995,136 minutes,7.7,"Drama, Romance",113132
+The Untouchables,1987,119 minutes,7.9,"Crime, Drama, Thriller",302169
+Seven Pounds,2008,123 minutes,7.6,Drama,299165
+Eastern Promises,2007,100 minutes,7.6,"Crime, Drama, Thriller",239247
+Walk the Line,2005,136 minutes,7.8,"Biography, Drama, Music",246717
+Deliverance,1972,109 minutes,7.7,"Adventure, Drama, Thriller",106379
+Aladdin,1992,90 minutes,8.1,"Animation, Adventure, Comedy",399837
+Serpico,1973,130 minutes,7.7,"Biography, Crime, Drama",120230
+It's a Wonderful Life,1946,130 minutes,8.7,"Drama, Family, Fantasy",442987
+Serenity,2005,119 minutes,7.8,"Action, Adventure, Sci-Fi",293279
+Hunt for the Wilderpeople,2016,101 minutes,7.8,"Adventure, Comedy, Drama",126183
+Lord of War,2005,122 minutes,7.6,"Crime, Drama",309842
+Shichinin no samurai,1954,207 minutes,8.7,"Action, Drama",337725
+Boyhood,2014,165 minutes,7.9,Drama,349837
+The Boy in the Striped Pyjamas,2008,94 minutes,7.8,"Drama, History, War",211365
+Straight Outta Compton,2015,147 minutes,7.8,"Biography, Drama, History",196361
+Big Hero 6,2014,102 minutes,7.8,"Animation, Action, Adventure",445608
+As Good as It Gets,1997,139 minutes,7.7,"Comedy, Drama, Romance",293787
+Citizen Kane,1941,119 minutes,8.3,"Drama, Mystery",432830
+The Boondock Saints,1999,108 minutes,7.7,"Action, Thriller",236755
+The Fault in Our Stars,2014,126 minutes,7.7,"Drama, Romance",367553
+Roma,2018,135 minutes,7.7,Drama,153988
+District 9,2009,112 minutes,7.9,"Action, Sci-Fi, Thriller",668271
+Wo hu cang long,2000,120 minutes,7.9,"Action, Adventure, Drama",264906
+Mr. Nobody,2009,141 minutes,7.8,"Drama, Fantasy, Romance",229364
+Raging Bull,1980,129 minutes,8.2,"Biography, Drama, Sport",344714
+Back to the Future Part II,1989,108 minutes,7.9,"Adventure, Comedy, Sci-Fi",516023
+Gran Torino,2008,116 minutes,8.1,Drama,759148
+In Bruges,2008,107 minutes,7.9,"Comedy, Crime, Drama",412353
+The Theory of Everything,2014,123 minutes,7.7,"Biography, Drama, Romance",438486
+Edward Scissorhands,1990,105 minutes,7.9,"Drama, Fantasy, Romance",475272
+Monty Python and the Holy Grail,1975,91 minutes,8.2,"Adventure, Comedy, Fantasy",529573
+The Thin Red Line,1998,170 minutes,7.6,"Drama, History, War",184792
+Contratiempo,2016,106 minutes,8.1,"Crime, Drama, Mystery",169378
+Some Like It Hot,1959,121 minutes,8.2,"Comedy, Music, Romance",261219
+Wreck-It Ralph,2012,101 minutes,7.7,"Animation, Adventure, Comedy",409741
+Portrait de la jeune fille en feu,2019,122 minutes,8.1,"Drama, Romance",85004
+The Wrestler,2008,109 minutes,7.9,"Drama, Sport",301648
+Boyz n the Hood,1991,112 minutes,7.8,"Crime, Drama",137345
+Fantastic Mr. Fox,2009,87 minutes,7.9,"Animation, Adventure, Comedy",223544
+Match Point,2005,124 minutes,7.6,"Drama, Romance, Thriller",215497
+Kimetsu no Yaiba: Mugen Ressha-Hen,2020,117 minutes,8.3,"Animation, Action, Adventure",51169
+Zombieland,2009,88 minutes,7.6,"Action, Comedy, Horror",557896
+Life of Pi,2012,127 minutes,7.9,"Adventure, Drama, Fantasy",614771
+Stagecoach,1939,96 minutes,7.8,"Adventure, Drama, Western",47962
+Naked,1993,131 minutes,7.8,"Comedy, Drama",38569
+Rear Window,1954,112 minutes,8.5,"Mystery, Thriller",478717
+Minority Report,2002,145 minutes,7.7,"Action, Crime, Mystery",538379
+Scent of a Woman,1992,156 minutes,8.0,Drama,287546
+Apollo 13,1995,140 minutes,7.7,"Adventure, Drama, History",288372
+What's Eating Gilbert Grape,1993,118 minutes,7.8,Drama,231158
+Mulan,1998,88 minutes,7.6,"Animation, Adventure, Comedy",278293
+The Royal Tenenbaums,2001,110 minutes,7.6,"Comedy, Drama",286524
+Lion,2016,118 minutes,8.0,"Biography, Drama",231273
+Nosferatu,1922,94 minutes,7.9,"Fantasy, Horror",94944
+Dawn of the Planet of the Apes,2014,130 minutes,7.6,"Action, Adventure, Drama",432319
+Adaptation.,2002,115 minutes,7.7,"Comedy, Drama",189555
+Dogville,2003,178 minutes,8.0,"Crime, Drama",146469
+Primal Fear,1996,129 minutes,7.7,"Crime, Drama, Mystery",207409
+Planet of the Apes,1968,112 minutes,8.0,"Adventure, Sci-Fi",176689
+The Hustler,1961,134 minutes,8.0,"Drama, Sport",80841
+Rosemary's Baby,1968,137 minutes,8.0,"Drama, Horror",209827
+Toy Story 2,1999,92 minutes,7.9,"Animation, Adventure, Comedy",563727
+Vertigo,1958,128 minutes,8.3,"Mystery, Romance, Thriller",392996
+The Last Picture Show,1971,118 minutes,8.0,"Drama, Romance",47295
+Lethal Weapon,1987,109 minutes,7.6,"Action, Crime, Thriller",253139
+Network,1976,121 minutes,8.1,Drama,156391
+Dog Day Afternoon,1975,125 minutes,8.0,"Biography, Crime, Drama",251532
+Gone Baby Gone,2007,114 minutes,7.6,"Crime, Drama, Mystery",268348
+First Blood,1982,93 minutes,7.7,"Action, Adventure, Thriller",245141
+Groundhog Day,1993,101 minutes,8.1,"Comedy, Drama, Fantasy",611623
+Young Frankenstein,1974,106 minutes,8.0,Comedy,155049
+Creed,2015,133 minutes,7.6,"Action, Drama, Sport",266153
+East of Eden,1955,118 minutes,7.8,Drama,44804
+The French Connection,1971,104 minutes,7.7,"Action, Crime, Drama",120153
+Fiddler on the Roof,1971,181 minutes,8.0,"Drama, Family, Musical",42925
+Mad Max 2,1981,96 minutes,7.6,"Action, Adventure, Sci-Fi",176901
+The Others,2001,101 minutes,7.6,"Horror, Mystery, Thriller",358049
+Pâfekuto burû,1997,81 minutes,8.0,"Animation, Crime, Drama",71081
+Donnie Brasco,1997,127 minutes,7.7,"Biography, Crime, Drama",298979
+Who Framed Roger Rabbit,1988,104 minutes,7.7,"Animation, Adventure, Comedy",195981
+Bridge of Spies,2015,142 minutes,7.6,"Drama, History, Thriller",305629
+Star Trek Into Darkness,2013,132 minutes,7.7,"Action, Adventure, Sci-Fi",478391
+Dark City,1998,100 minutes,7.6,"Fantasy, Mystery, Sci-Fi",197404
+Traffic,2000,147 minutes,7.6,"Crime, Drama, Thriller",205174
+Spartacus,1960,197 minutes,7.9,"Adventure, Biography, Drama",132760
+Das Boot,1981,149 minutes,8.4,"Drama, War",246252
+La piel que habito,2011,120 minutes,7.6,"Drama, Horror, Thriller",149578
+The Blues Brothers,1980,133 minutes,7.9,"Action, Adventure, Comedy",194998
+Nuovo Cinema Paradiso,1988,155 minutes,8.5,"Drama, Romance",253352
+The Birds,1963,119 minutes,7.7,"Drama, Horror, Mystery",184551
+The World's Fastest Indian,2005,127 minutes,7.8,"Biography, Drama, Sport",54323
+The Elephant Man,1980,124 minutes,8.2,"Biography, Drama",236088
+Doctor Zhivago,1965,197 minutes,8.0,"Drama, Romance, War",75471
+Evil Dead II,1987,84 minutes,7.7,"Comedy, Horror",159430
+Carlito's Way,1993,144 minutes,7.9,"Crime, Drama, Thriller",213725
+Barry Lyndon,1975,185 minutes,8.1,"Adventure, Drama, History",163315
+A Bronx Tale,1993,121 minutes,7.8,"Crime, Drama",137948
+When Harry Met Sally...,1989,95 minutes,7.7,"Comedy, Drama, Romance",212240
+October Sky,1999,108 minutes,7.8,"Biography, Drama, Family",89194
+Tonari no Totoro,1988,86 minutes,8.2,"Animation, Comedy, Family",325322
+North by Northwest,1959,136 minutes,8.3,"Adventure, Mystery, Thriller",320418
+127 Hours,2010,94 minutes,7.6,"Biography, Drama",369885
+Sunset Blvd.,1950,110 minutes,8.4,"Drama, Film-Noir",216725
+El secreto de sus ojos,2009,129 minutes,8.2,"Drama, Mystery, Romance",205635
+Fa Yeung Nin Wah,2000,98 minutes,8.1,"Drama, Romance",143989
+Close Encounters of the Third Kind,1977,138 minutes,7.6,"Drama, Sci-Fi",197429
+Hamlet,1996,242 minutes,7.8,Drama,37814
+A Streetcar Named Desire,1951,122 minutes,8.0,Drama,106390
+The Bourne Ultimatum,2007,115 minutes,8.0,"Action, Mystery, Thriller",626104
+The Conversation,1974,113 minutes,7.8,"Drama, Mystery, Thriller",109291
+Who's Afraid of Virginia Woolf?,1966,131 minutes,8.0,Drama,74167
+Ordinary People,1980,124 minutes,7.8,Drama,51200
+The Bourne Supremacy,2004,108 minutes,7.7,"Action, Mystery, Thriller",455903
+End of Watch,2012,109 minutes,7.6,"Action, Adventure, Crime",242936
+Mississippi Burning,1988,128 minutes,7.8,"Crime, Drama, History",98353
+The Great Escape,1963,172 minutes,8.2,"Adventure, Drama, History",239875
+Glory,1989,122 minutes,7.8,"Biography, Drama, History",132843
+Captain Phillips,2013,134 minutes,7.8,"Action, Biography, Crime",449054
+Hachi: A Dog's Tale,2009,93 minutes,8.1,"Biography, Drama, Family",276304
+Do the Right Thing,1989,120 minutes,7.9,"Comedy, Drama",99698
+M - Eine Stadt sucht einen Mörder,1931,117 minutes,8.3,"Crime, Mystery, Thriller",154661
+Ang-ma-reul bo-at-da,2010,144 minutes,7.8,"Action, Crime, Drama",125329
+Life of Brian,1979,94 minutes,8.1,Comedy,391193
+La grande bellezza,2013,141 minutes,7.7,Drama,88841
+Låt den rätte komma in,2008,114 minutes,7.9,"Drama, Fantasy, Horror",214177
+Sing Street,2016,106 minutes,7.9,"Comedy, Drama, Music",91866
+Isle of Dogs,2018,101 minutes,7.8,"Animation, Adventure, Comedy",162243
+Breakfast at Tiffany's,1961,115 minutes,7.6,"Comedy, Drama, Romance",176700
+In the Heat of the Night,1967,110 minutes,8.0,"Drama, Mystery, Thriller",74805
+On the Waterfront,1954,108 minutes,8.1,"Crime, Drama, Thriller",152120
+Sling Blade,1996,135 minutes,8.0,Drama,92804
+In the Name of the Father,1993,133 minutes,8.1,"Biography, Crime, Drama",170744
+Rise of the Planet of the Apes,2011,105 minutes,7.6,"Action, Drama, Sci-Fi",518142
+Bonnie and Clyde,1967,111 minutes,7.8,"Action, Biography, Crime",110764
+The Illusionist,2006,110 minutes,7.6,"Drama, Fantasy, Mystery",368061
+Metropolis,1927,153 minutes,8.3,"Drama, Sci-Fi",170940
+JFK,1991,189 minutes,8.0,"Drama, History, Thriller",152884
+Koe no katachi,2016,130 minutes,8.1,"Animation, Drama",74009
+Relatos salvajes,2014,122 minutes,8.1,"Comedy, Drama, Thriller",192765
+The Man from Earth,2007,87 minutes,7.9,"Drama, Fantasy, Mystery",184421
+Changeling,2008,141 minutes,7.8,"Biography, Crime, Drama",251881
+The Color Purple,1985,154 minutes,7.7,Drama,85000
+Gandhi,1982,191 minutes,8.1,"Biography, Drama",227144
+High Noon,1952,85 minutes,8.0,"Drama, Thriller, Western",102845
+Serbuan maut,2011,101 minutes,7.6,"Action, Crime, Thriller",201203
+The Insider,1999,157 minutes,7.8,"Biography, Drama, Thriller",168869
+Billy Elliot,2000,110 minutes,7.7,"Drama, Music",133251
+Akira,1988,124 minutes,8.0,"Animation, Action, Drama",180176
+This Is Spinal Tap,1984,82 minutes,7.9,"Comedy, Music",137585
+Dirty Harry,1971,102 minutes,7.7,"Action, Crime, Thriller",153039
+Goldfinger,1964,110 minutes,7.7,"Action, Adventure, Thriller",186204
+Snow White and the Seven Dwarfs,1937,83 minutes,7.6,"Animation, Adventure, Family",194629
+The Jungle Book,1967,78 minutes,7.6,"Animation, Adventure, Comedy",177907
+Stalker,1979,162 minutes,8.1,"Drama, Sci-Fi",130878
+The Apartment,1960,125 minutes,8.3,"Comedy, Drama, Romance",177407
+Where Eagles Dare,1968,158 minutes,7.6,"Action, Adventure, War",57284
+Fried Green Tomatoes,1991,130 minutes,7.7,Drama,73213
+Brazil,1985,132 minutes,7.9,"Drama, Sci-Fi",198112
+Flipped,2010,90 minutes,7.7,"Comedy, Drama, Romance",88594
+The Magnificent Seven,1960,128 minutes,7.7,"Action, Adventure, Western",93507
+Butch Cassidy and the Sundance Kid,1969,110 minutes,8.0,"Biography, Crime, Drama",212688
+Before Sunset,2004,80 minutes,8.1,"Drama, Romance",255936
+Papillon,1973,151 minutes,8.0,"Biography, Crime, Drama",128712
+It Happened One Night,1934,105 minutes,8.1,"Comedy, Romance",101779
+Ip Man,2008,106 minutes,8.0,"Action, Biography, Drama",220857
+La haine,1995,98 minutes,8.1,"Crime, Drama",167148
+Chung Hing sam lam,1994,102 minutes,8.0,"Comedy, Crime, Drama",76732
+Before Midnight,2013,109 minutes,7.9,"Drama, Romance",153460
+Jodaeiye Nader az Simin,2011,123 minutes,8.3,Drama,240381
+Annie Hall,1977,93 minutes,8.0,"Comedy, Romance",262051
+La montaña sagrada,1973,114 minutes,7.8,"Adventure, Drama, Fantasy",41775
+Per qualche dollaro in più,1965,132 minutes,8.3,Western,250508
+This Is England,2006,101 minutes,7.7,"Crime, Drama",120980
+Lucky Number Slevin,2006,110 minutes,7.7,"Crime, Drama, Thriller",309896
+Per un pugno di dollari,1964,99 minutes,7.9,"Action, Drama, Western",212504
+My Fair Lady,1964,170 minutes,7.8,"Drama, Family, Musical",93889
+Batman: Mask of the Phantasm,1993,76 minutes,7.8,"Animation, Action, Adventure",49398
+Enter the Dragon,1973,102 minutes,7.6,"Action, Crime, Drama",102936
+The Killing Fields,1984,141 minutes,7.8,"Biography, Drama, History",54933
+Rushmore,1998,93 minutes,7.6,"Comedy, Drama, Romance",182280
+Det sjunde inseglet,1957,96 minutes,8.1,"Drama, Fantasy, History",181046
+Kôkaku Kidôtai,1995,83 minutes,7.9,"Animation, Action, Crime",139670
+The King of Comedy,1982,109 minutes,7.8,"Comedy, Crime, Drama",100181
+Stalag 17,1953,120 minutes,8.0,"Comedy, Drama, War",55191
+Der Name der Rose,1986,130 minutes,7.7,"Drama, History, Mystery",107288
+I Am Sam,2001,132 minutes,7.6,Drama,148864
+Kung fu,2004,99 minutes,7.7,"Action, Comedy, Fantasy",136309
+All the President's Men,1976,138 minutes,7.9,"Drama, History, Thriller",112845
+Malcolm X,1992,202 minutes,7.7,"Biography, Drama, History",92954
+The Fall,2006,117 minutes,7.8,"Adventure, Drama, Fantasy",111267
+Awakenings,1990,121 minutes,7.8,"Biography, Drama",137137
+Harold and Maude,1971,91 minutes,7.9,"Comedy, Drama, Romance",76368
+How to Train Your Dragon 2,2014,102 minutes,7.8,"Animation, Action, Adventure",326009
+Kramer vs. Kramer,1979,105 minutes,7.8,Drama,142755
+Glengarry Glen Ross,1992,100 minutes,7.7,"Crime, Drama, Mystery",103336
+Ray,2004,152 minutes,7.7,"Biography, Drama, Music",145745
+Patton,1970,172 minutes,8.0,"Biography, Drama, War",100757
+The Grapes of Wrath,1940,129 minutes,8.1,Drama,91216
+Being There,1979,130 minutes,8.0,"Comedy, Drama",71440
+Hotel Rwanda,2004,121 minutes,8.1,"Biography, Drama, History",350037
+Paddington 2,2017,103 minutes,7.8,"Adventure, Comedy, Family",72530
+Ran,1985,162 minutes,8.2,"Action, Drama, War",122796
+WolfWalkers,2020,103 minutes,8.0,"Animation, Adventure, Family",29903
+Gake no ue no Ponyo,2008,101 minutes,7.6,"Animation, Adventure, Comedy",138817
+La migliore offerta,2013,131 minutes,7.8,"Crime, Drama, Mystery",116694
+Night of the Living Dead,1968,96 minutes,7.8,"Horror, Thriller",125421
+"Paris, Texas",1984,145 minutes,8.1,Drama,103208
+The Nightmare Before Christmas,1993,76 minutes,8.0,"Animation, Family, Fantasy",325572
+Ed Wood,1994,127 minutes,7.9,"Biography, Comedy, Drama",173639
+Todo sobre mi madre,1999,101 minutes,7.8,Drama,95245
+The Searchers,1956,119 minutes,7.9,"Adventure, Drama, Western",87598
+Cool Hand Luke,1967,127 minutes,8.1,"Crime, Drama",173958
+Rebecca,1940,130 minutes,8.1,"Drama, Film-Noir, Mystery",134557
+The Iron Giant,1999,86 minutes,8.1,"Animation, Action, Adventure",186614
+The Last King of Scotland,2006,123 minutes,7.7,"Biography, Drama, History",184067
+Bound by Honor,1993,180 minutes,7.9,"Crime, Drama",30858
+Star Trek II: The Wrath of Khan,1982,113 minutes,7.7,"Action, Adventure, Sci-Fi",119173
+My Left Foot: The Story of Christy Brown,1989,103 minutes,7.9,"Biography, Drama",73092
+Paper Moon,1973,102 minutes,8.1,"Comedy, Crime, Drama",46586
+The Remains of the Day,1993,134 minutes,7.8,"Drama, Romance",72583
+Dancer in the Dark,2000,140 minutes,8.0,"Crime, Drama, Musical",108235
+The Naked Gun: From the Files of Police Squad!,1988,85 minutes,7.6,"Comedy, Crime",165095
+Papurika,2006,90 minutes,7.7,"Animation, Drama, Fantasy",80188
+Batoru rowaiaru,2000,114 minutes,7.6,"Action, Adventure, Drama",180114
+Rebel Without a Cause,1955,111 minutes,7.7,Drama,89125
+21 Grams,2003,124 minutes,7.7,"Crime, Drama, Thriller",234045
+The Dirty Dozen,1967,150 minutes,7.7,"Action, Adventure, War",71721
+What Ever Happened to Baby Jane?,1962,134 minutes,8.0,"Drama, Horror, Thriller",54711
+The Wild Bunch,1969,145 minutes,7.9,"Action, Adventure, Western",83381
+Detachment,2011,98 minutes,7.7,Drama,83494
+Dawn of the Dead,1978,127 minutes,7.9,"Horror, Thriller",118448
+Seppuku,1962,133 minutes,8.6,"Action, Drama, Mystery",53299
+Amores perros,2000,154 minutes,8.1,"Drama, Thriller",236588
+Clerks,1994,92 minutes,7.7,Comedy,219359
+Searching,2018,102 minutes,7.6,"Drama, Mystery, Thriller",158424
+Harvey,1950,104 minutes,7.9,"Comedy, Drama, Fantasy",55131
+Double Indemnity,1944,107 minutes,8.3,"Crime, Drama, Film-Noir",153720
+Out of the Past,1947,97 minutes,8.0,"Crime, Drama, Film-Noir",36380
+Persona,1966,85 minutes,8.1,"Drama, Thriller",114944
+Paths of Glory,1957,88 minutes,8.4,"Drama, War",192476
+Madeo,2009,129 minutes,7.8,"Crime, Drama, Mystery",61652
+Dangal,2016,161 minutes,8.4,"Action, Biography, Drama",181060
+Solaris,1972,167 minutes,8.0,"Drama, Mystery, Sci-Fi",89329
+Mysterious Skin,2004,105 minutes,7.6,Drama,68815
+The Outlaw Josey Wales,1976,135 minutes,7.8,Western,72174
+Miller's Crossing,1990,115 minutes,7.7,"Crime, Drama, Thriller",133558
+The Killing,1956,84 minutes,8.0,"Crime, Drama, Film-Noir",88271
+8½,1963,138 minutes,8.0,Drama,116124
+Jungfrukällan,1960,89 minutes,8.1,Drama,28800
+Z,1969,127 minutes,8.2,"Crime, Drama, History",28004
+Witness for the Prosecution,1957,116 minutes,8.4,"Crime, Drama, Mystery",121410
+Charade,1963,113 minutes,7.9,"Comedy, Mystery, Romance",75448
+Majo no takkyûbin,1989,103 minutes,7.8,"Animation, Family, Fantasy",139169
+After Hours,1985,97 minutes,7.6,"Comedy, Crime, Drama",67438
+Taare Zameen Par,2007,165 minutes,8.4,"Drama, Family",187536
+The Right Stuff,1983,193 minutes,7.8,"Adventure, Biography, Drama",60572
+Barton Fink,1991,116 minutes,7.6,"Comedy, Drama, Thriller",119580
+Dial M for Murder,1954,105 minutes,8.2,"Crime, Thriller",171699
+Kaze tachinu,2013,126 minutes,7.8,"Animation, Biography, Drama",82690
+Kaze no tani no Naushika,1984,117 minutes,8.0,"Animation, Adventure, Sci-Fi",165618
+Cinderella Man,2005,144 minutes,8.0,"Biography, Drama, History",184808
+The African Queen,1951,105 minutes,7.7,"Adventure, Drama, Romance",77615
+The Bridges of Madison County,1995,135 minutes,7.6,"Drama, Romance",79653
+Guess Who's Coming to Dinner,1967,108 minutes,7.8,"Comedy, Drama",44561
+Amour,2012,127 minutes,7.9,Drama,98747
+Klaus,2019,96 minutes,8.2,"Animation, Adventure, Comedy",140590
+The Third Man,1949,104 minutes,8.1,"Film-Noir, Mystery, Thriller",168930
+Breaking the Waves,1996,159 minutes,7.8,Drama,65983
+The Maltese Falcon,1941,100 minutes,8.0,"Crime, Film-Noir, Mystery",156286
+Serbuan maut 2: Berandal,2014,150 minutes,7.9,"Action, Crime, Thriller",121297
+Happiness,1998,134 minutes,7.7,"Comedy, Drama",69559
+Togo,2019,113 minutes,8.0,"Adventure, Biography, Drama",46508
+Pink Floyd: The Wall,1982,95 minutes,8.0,"Drama, Fantasy, Music",79954
+Ying xiong,2002,120 minutes,7.9,"Action, Adventure, Drama",179752
+Tumbbad,2018,104 minutes,8.3,"Drama, Fantasy, Horror",41081
+Hable con ella,2002,112 minutes,7.9,"Drama, Mystery, Romance",111097
+Me and Earl and the Dying Girl,2015,105 minutes,7.7,"Comedy, Drama",129730
+Rashômon,1950,88 minutes,8.2,"Crime, Drama, Mystery",164809
+The Straight Story,1999,112 minutes,8.0,"Biography, Drama",89008
+Mommy,2014,139 minutes,8.0,Drama,55712
+Belle de jour,1967,100 minutes,7.7,"Drama, Romance",43651
+Tenkû no shiro Rapyuta,1986,125 minutes,8.0,"Animation, Adventure, Family",162332
+Zwartboek,2006,145 minutes,7.7,"Drama, Thriller, War",76180
+Manbiki kazoku,2018,121 minutes,7.9,"Crime, Drama",73279
+The Quiet Man,1952,129 minutes,7.7,"Comedy, Drama, Romance",38118
+The Night of the Hunter,1955,92 minutes,8.0,"Crime, Drama, Film-Noir",87836
+Days of Heaven,1978,94 minutes,7.8,"Drama, Romance",57181
+Finding Neverland,2004,106 minutes,7.7,"Biography, Drama, Family",204374
+Gaslight,1944,114 minutes,7.8,"Crime, Drama, Mystery",28070
+The Great Dictator,1940,125 minutes,8.4,"Comedy, Drama, War",219288
+50/50,2011,100 minutes,7.6,"Comedy, Drama, Romance",326671
+The Longest Day,1962,178 minutes,7.7,"Action, Drama, History",55054
+Rio Bravo,1959,141 minutes,8.0,Western,61225
+The Man Who Shot Liberty Valance,1962,123 minutes,8.1,"Drama, Western",74621
+Letters from Iwo Jima,2006,141 minutes,7.9,"Action, Adventure, Drama",160868
+Abre los ojos,1997,119 minutes,7.7,"Drama, Mystery, Sci-Fi",68561
+Freaks,1932,64 minutes,7.9,"Drama, Horror",45575
+The Verdict,1982,129 minutes,7.7,Drama,39580
+The Day of the Jackal,1973,143 minutes,7.8,"Crime, Drama, Thriller",40313
+Short Term 12,2013,96 minutes,7.9,Drama,86767
+King Kong,1933,100 minutes,7.9,"Adventure, Horror, Sci-Fi",84194
+Sardar Udham,2021,164 minutes,8.8,"Biography, Crime, Drama",38628
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,87 minutes,8.1,"Animation, Action, Drama",51569
+The Day the Earth Stood Still,1951,92 minutes,7.8,"Drama, Sci-Fi",80911
+Lola rennt,1998,81 minutes,7.7,"Crime, Drama, Thriller",196553
+Judgment at Nuremberg,1961,179 minutes,8.3,"Drama, War",75925
+Rope,1948,80 minutes,8.0,"Crime, Drama, Mystery",140334
+En man som heter Ove,2015,116 minutes,7.7,"Comedy, Drama, Romance",53242
+Roman Holiday,1953,118 minutes,8.0,"Comedy, Romance",136171
+Badlands,1973,94 minutes,7.8,"Action, Crime, Drama",71709
+The Lion in Winter,1968,134 minutes,7.9,"Biography, Drama, History",31154
+All Quiet on the Western Front,1930,152 minutes,8.1,"Drama, War",60663
+La dolce vita,1960,174 minutes,8.0,"Comedy, Drama",71751
+From Here to Eternity,1953,118 minutes,7.6,"Drama, Romance, War",46352
+Festen,1998,105 minutes,8.1,Drama,85626
+25th Hour,2002,135 minutes,7.6,Drama,177008
+Yôjinbô,1961,110 minutes,8.2,"Action, Drama, Thriller",120372
+The Station Agent,2003,89 minutes,7.6,"Comedy, Drama",70001
+Loving Vincent,2017,94 minutes,7.8,"Animation, Biography, Crime",56557
+Modern Times,1936,87 minutes,8.5,"Comedy, Drama, Romance",236205
+Der Himmel über Berlin,1987,128 minutes,8.0,"Drama, Fantasy, Romance",69758
+Mary and Max.,2009,92 minutes,8.1,"Animation, Comedy, Drama",174397
+Once,2007,86 minutes,7.8,"Drama, Music, Romance",115462
+"South Park: Bigger, Longer & Uncut",1999,81 minutes,7.7,"Animation, Comedy, Fantasy",201829
+Andrei Rublev,1966,205 minutes,8.1,"Biography, Drama, History",52716
+Philomena,2013,98 minutes,7.6,"Biography, Comedy, Drama",99062
+Fanny och Alexander,1982,188 minutes,8.1,Drama,62995
+Touch of Evil,1958,95 minutes,8.0,"Crime, Drama, Film-Noir",103241
+Beasts of No Nation,2015,137 minutes,7.7,"Drama, War",79916
+Shershaah,2021,135 minutes,8.9,"Action, Biography, Drama",116025
+Kubo and the Two Strings,2016,101 minutes,7.8,"Animation, Action, Adventure",126605
+Notorious,1946,102 minutes,7.9,"Drama, Film-Noir, Romance",99580
+Perfetti sconosciuti,2016,96 minutes,7.7,"Comedy, Drama",63678
+Nebraska,2013,115 minutes,7.7,"Adventure, Comedy, Drama",116985
+Waking Life,2001,99 minutes,7.7,"Animation, Drama, Fantasy",63495
+A Man for All Seasons,1966,120 minutes,7.7,"Biography, Drama, History",34134
+A Christmas Story,1983,93 minutes,8.0,"Comedy, Family",146017
+À bout de souffle,1960,90 minutes,7.7,"Crime, Drama",79489
+Trois couleurs: Bleu,1993,94 minutes,7.9,"Drama, Music, Mystery",99579
+United 93,2006,111 minutes,7.6,"Action, Drama, History",105349
+Ladri di biciclette,1948,89 minutes,8.3,Drama,160125
+Good Bye Lenin!,2003,121 minutes,7.7,"Comedy, Drama, Romance",144485
+Chun gwong cha sit,1997,96 minutes,7.7,"Drama, Romance",27877
+Cat on a Hot Tin Roof,1958,108 minutes,8.0,Drama,48705
+Le charme discret de la bourgeoisie,1972,102 minutes,7.8,Comedy,42247
+Mar adentro,2004,126 minutes,8.0,"Biography, Drama",81039
+Les quatre cents coups,1959,99 minutes,8.1,"Crime, Drama",115014
+Zerkalo,1975,107 minutes,8.0,"Biography, Drama",45306
+The Treasure of the Sierra Madre,1948,126 minutes,8.2,"Adventure, Drama, Western",122620
+Pride,2014,119 minutes,7.8,"Biography, Comedy, Drama",55530
+Sabrina,1954,113 minutes,7.6,"Comedy, Drama, Romance",63828
+Hedwig and the Angry Inch,2001,95 minutes,7.7,"Comedy, Drama, Music",35225
+Viskningar och rop,1972,91 minutes,8.0,Drama,33514
+The Big Sleep,1946,114 minutes,7.9,"Crime, Film-Noir, Mystery",84305
+Miracle in Cell No. 7,2019,132 minutes,8.2,Drama,46611
+Mimi wo sumaseba,1995,111 minutes,7.9,"Animation, Drama, Family",60100
+La planète sauvage,1973,72 minutes,7.7,"Animation, Sci-Fi",30015
+The Man Who Would Be King,1975,129 minutes,7.8,"Adventure, History, War",48275
+Gangs of Wasseypur,2012,321 minutes,8.2,"Action, Comedy, Crime",93377
+Mou gaan dou,2002,101 minutes,8.0,"Action, Crime, Drama",123217
+Kurenai no buta,1992,94 minutes,7.7,"Animation, Adventure, Comedy",86702
+Manhattan,1979,96 minutes,7.9,"Comedy, Drama, Romance",138564
+Fantasia,1940,125 minutes,7.7,"Animation, Family, Fantasy",94317
+Un long dimanche de fiançailles,2004,133 minutes,7.6,"Drama, Mystery, Romance",73390
+Chugyeokja,2008,125 minutes,7.8,"Action, Crime, Drama",64588
+Ajeossi,2010,119 minutes,7.7,"Action, Crime, Drama",68273
+Dersu Uzala,1975,142 minutes,8.2,"Adventure, Biography, Drama",27912
+The Manchurian Candidate,1962,126 minutes,7.9,"Drama, Thriller",74757
+Once Were Warriors,1994,102 minutes,7.9,"Crime, Drama",33803
+Frankenstein,1931,70 minutes,7.8,"Drama, Horror, Sci-Fi",70835
+Zulu,1964,138 minutes,7.7,"Drama, History, War",38662
+The Philadelphia Story,1940,112 minutes,7.9,"Comedy, Romance",68144
+Lilja 4-ever,2002,109 minutes,7.8,"Crime, Drama",45140
+La leggenda del pianista sull'oceano,1998,169 minutes,8.0,"Drama, Music, Romance",63141
+Short Cuts,1993,188 minutes,7.7,"Comedy, Drama",44447
+Le samouraï,1967,105 minutes,8.0,"Crime, Drama",50260
+Das weiße Band - Eine deutsche Kindergeschichte,2009,144 minutes,7.8,"Drama, History, Mystery",72678
+Strangers on a Train,1951,101 minutes,7.9,"Crime, Drama, Film-Noir",131882
+Anatomy of a Murder,1959,161 minutes,8.0,"Drama, Mystery",65210
+Tengoku to jigoku,1963,143 minutes,8.4,"Crime, Drama, Mystery",42358
+Nashville,1975,160 minutes,7.7,"Comedy, Drama, Music",25925
+Bacheha-Ye aseman,1997,89 minutes,8.2,"Drama, Family, Sport",73169
+Mr. Smith Goes to Washington,1939,129 minutes,8.1,"Comedy, Drama",113967
+Forushande,2016,124 minutes,7.7,Drama,59410
+Leviafan,2014,140 minutes,7.6,"Crime, Drama",52806
+You Can't Take It with You,1938,126 minutes,7.8,"Comedy, Drama, Romance",25417
+Secrets & Lies,1996,136 minutes,8.0,"Comedy, Drama",42477
+City Lights,1931,87 minutes,8.5,"Comedy, Drama, Romance",180896
+Ikiru,1952,143 minutes,8.3,Drama,76336
+Amarcord,1973,123 minutes,7.9,"Comedy, Drama",42973
+Smultronstället,1957,91 minutes,8.2,"Drama, Romance",105205
+Doragon bôru chô: Burorî,2018,100 minutes,7.8,"Animation, Action, Adventure",26019
+Das Cabinet des Dr. Caligari,1920,76 minutes,8.0,"Horror, Mystery, Thriller",62294
+The Adventures of Robin Hood,1938,102 minutes,7.9,"Action, Adventure, Romance",50455
+Andhadhun,2018,139 minutes,8.2,"Comedy, Crime, Music",88642
+Song of the Sea,2014,93 minutes,8.1,"Animation, Adventure, Drama",57120
+Invasion of the Body Snatchers,1956,80 minutes,7.7,"Drama, Horror, Sci-Fi",48746
+Night on Earth,1991,129 minutes,7.7,"Comedy, Drama",59567
+Kind Hearts and Coronets,1949,106 minutes,8.0,"Comedy, Crime",36890
+Omoide no Mânî,2014,103 minutes,7.7,"Animation, Drama, Family",38833
+Control,2007,122 minutes,7.7,"Biography, Drama, Music",64585
+Trois couleurs: Rouge,1994,99 minutes,8.1,"Drama, Mystery, Romance",101153
+Bride of Frankenstein,1935,75 minutes,7.8,"Drama, Horror, Sci-Fi",47329
+Laura,1944,88 minutes,7.9,"Drama, Film-Noir, Mystery",46609
+The Message,1976,177 minutes,8.1,"Biography, Drama, History",46771
+Tropa de Elite,2007,115 minutes,8.0,"Action, Crime, Drama",102610
+M.S. Dhoni: The Untold Story,2016,184 minutes,8.1,"Biography, Drama, Sport",52857
+The Thin Man,1934,91 minutes,7.9,"Comedy, Mystery",29125
+Hannah and Her Sisters,1986,107 minutes,7.9,"Comedy, Drama",70711
+La double vie de Véronique,1991,98 minutes,7.7,"Drama, Fantasy, Music",47503
+The 39 Steps,1935,86 minutes,7.6,"Crime, Mystery, Thriller",56128
+Spoorloos,1988,107 minutes,7.7,"Mystery, Thriller",38048
+The Asphalt Jungle,1950,112 minutes,7.8,"Crime, Drama, Film-Noir",26399
+Il conformista,1970,113 minutes,7.9,Drama,29791
+Ba wang bie ji,1993,171 minutes,8.1,"Drama, History, Music",27985
+Le Petit Prince,2015,108 minutes,7.7,"Animation, Adventure, Drama",61034
+Le scaphandre et le papillon,2007,112 minutes,8.0,"Biography, Drama",106959
+Shadow of a Doubt,1943,108 minutes,7.8,"Film-Noir, Thriller",64363
+Frost/Nixon,2008,122 minutes,7.7,"Biography, Drama, History",107205
+Kaguya-hime no monogatari,2013,137 minutes,8.0,"Animation, Drama, Family",44821
+Cape Fear,1962,106 minutes,7.7,"Drama, Thriller",28719
+Peeping Tom,1960,101 minutes,7.6,"Drama, Horror, Thriller",34648
+Shine,1996,105 minutes,7.7,"Biography, Drama, Music",53822
+Sacrifice,1986,149 minutes,7.9,Drama,27653
+Under sandet,2015,100 minutes,7.8,"Drama, History, War",40171
+Super 30,2019,154 minutes,8.1,"Biography, Drama",29619
+Persepolis,2007,96 minutes,8.0,"Animation, Biography, Drama",93489
+PK,2014,153 minutes,8.1,"Comedy, Drama, Sci-Fi",178655
+The Lady Vanishes,1938,96 minutes,7.8,"Mystery, Thriller",51657
+Repulsion,1965,105 minutes,7.6,"Drama, Horror, Thriller",52446
+Il gattopardo,1963,186 minutes,8.0,"Drama, History",25433
+To Be or Not to Be,1942,99 minutes,8.2,"Comedy, Romance, War",35725
+Inherit the Wind,1960,128 minutes,8.1,"Biography, Drama, History",29767
+Drishyam,2015,163 minutes,8.2,"Crime, Drama, Mystery",79237
+Les parapluies de Cherbourg,1964,91 minutes,7.8,"Drama, Musical, Romance",26959
+La battaglia di Algeri,1966,121 minutes,8.1,"Drama, War",58782
+Tôkyô monogatari,1953,136 minutes,8.2,Drama,59999
+The General,1926,67 minutes,8.2,"Action, Adventure, Comedy",89483
+Lat sau san taam,1992,128 minutes,7.8,"Action, Crime, Thriller",49767
+Gully Boy,2019,154 minutes,7.9,"Drama, Music, Romance",37933
+"I, Daniel Blake",2016,100 minutes,7.9,Drama,58881
+Bringing Up Baby,1938,102 minutes,7.8,Comedy,60599
+Ondskan,2003,113 minutes,7.8,Drama,37975
+The Taking of Pelham One Two Three,1974,104 minutes,7.7,"Action, Crime, Thriller",30064
+Scarface,1932,93 minutes,7.7,"Action, Crime, Drama",27533
+Arsenic and Old Lace,1943,118 minutes,7.9,"Comedy, Crime, Thriller",69910
+Diarios de motocicleta,2004,126 minutes,7.8,"Adventure, Biography, Drama",100418
+In Cold Blood,1967,134 minutes,7.9,"Biography, Crime, Drama",26277
+Lagaan: Once Upon a Time in India,2001,224 minutes,8.1,"Drama, Musical, Sport",111731
+Ta'm e guilass,1997,95 minutes,7.7,Drama,29688
+Ratsasan,2018,170 minutes,8.4,"Crime, Drama, Mystery",38746
+Underground,1995,170 minutes,8.1,"Comedy, Drama, Fantasy",57883
+Kagemusha,1980,180 minutes,7.9,"Drama, History, War",35165
+"Aguirre, der Zorn Gottes",1972,95 minutes,7.9,"Action, Adventure, Biography",56210
+Sweet Smell of Success,1957,96 minutes,8.0,"Drama, Film-Noir",31248
+The Red Shoes,1948,135 minutes,8.1,"Drama, Music, Romance",34252
+Brief Encounter,1945,86 minutes,8.0,"Drama, Romance",39462
+Ôkami kodomo no Ame to Yuki,2012,117 minutes,8.1,"Animation, Drama, Family",43616
+Okuribito,2008,130 minutes,8.0,"Drama, Music",51494
+Sleuth,1972,138 minutes,8.0,"Mystery, Thriller",47227
+The Caine Mutiny,1954,124 minutes,7.7,"Drama, War",27288
+Wait Until Dark,1967,108 minutes,7.7,Thriller,30125
+La Strada,1954,108 minutes,8.0,Drama,62323
+Ayla: The Daughter of War,2017,125 minutes,8.5,"Biography, Drama, History",38709
+Zindagi Na Milegi Dobara,2011,155 minutes,8.2,"Comedy, Drama, Musical",75528
+Tôkyô goddofâzâzu,2003,90 minutes,7.8,"Animation, Adventure, Comedy",38513
+Le salaire de la peur,1953,131 minutes,8.2,"Adventure, Drama, Thriller",59808
+Das Experiment,2001,120 minutes,7.7,"Drama, Thriller",93322
+His Girl Friday,1940,92 minutes,7.9,"Comedy, Drama, Romance",57697
+The Kid,1921,68 minutes,8.3,"Comedy, Drama, Family",124009
+Sullivan's Travels,1941,90 minutes,7.9,"Adventure, Comedy, Drama",25990
+Uri: The Surgical Strike,2019,138 minutes,8.4,"Action, Drama, History",58031
+Kal Ho Naa Ho,2003,186 minutes,8.0,"Comedy, Drama, Musical",67882
+The Innocents,1961,100 minutes,7.8,Horror,29816
+Cowboy Bebop: Tengoku no tobira,2001,115 minutes,7.8,"Animation, Action, Crime",47631
+My Name Is Khan,2010,165 minutes,8.0,"Drama, Romance",105027
+Jûbê ninpûchô,1993,94 minutes,7.8,"Animation, Action, Adventure",36874
+Un prophète,2009,155 minutes,7.8,"Crime, Drama",97723
+Les choristes,2004,97 minutes,7.9,"Comedy, Drama, Music",61149
+To Have and Have Not,1944,100 minutes,7.8,"Adventure, Comedy, Film-Noir",34078
+Soorarai Pottru,2020,153 minutes,9.3,Drama,109254
+Ace in the Hole,1951,111 minutes,8.1,"Drama, Film-Noir",35213
+No Man's Land,2001,98 minutes,7.9,"Comedy, Drama, War",46729
+"4 luni, 3 saptamâni si 2 zile",2007,113 minutes,7.9,Drama,59484
+Sunrise: A Song of Two Humans,1927,94 minutes,8.1,"Drama, Romance",50496
+Gegen die Wand,2004,121 minutes,7.9,"Drama, Romance",53767
+In a Lonely Place,1950,94 minutes,7.9,"Drama, Film-Noir, Mystery",30790
+Red River,1948,133 minutes,7.8,"Drama, Western",30751
+Badhaai ho,2018,124 minutes,8.0,"Comedy, Drama",33313
+Adams æbler,2005,94 minutes,7.7,"Comedy, Crime, Drama",49982
+Le notti di Cabiria,1957,110 minutes,8.1,Drama,48110
+Kumonosu-jô,1957,110 minutes,8.1,"Drama, History",51209
+Bronenosets Potemkin,1925,75 minutes,8.0,"Drama, History, Thriller",56871
+Bin-jip,2004,88 minutes,7.9,"Crime, Drama, Romance",54392
+Les yeux sans visage,1960,90 minutes,7.6,"Drama, Horror",30878
+Höstsonaten,1978,99 minutes,8.1,"Drama, Music",33492
+The Invisible Man,1933,71 minutes,7.7,"Horror, Sci-Fi",34194
+Fitzcarraldo,1982,158 minutes,8.0,"Adventure, Drama",34330
+Key Largo,1948,100 minutes,7.8,"Action, Crime, Drama",40186
+The Odd Couple,1968,105 minutes,7.7,Comedy,34434
+Pather Panchali,1955,125 minutes,8.3,Drama,31100
+Les diaboliques,1955,117 minutes,8.1,"Crime, Drama, Horror",65074
+Il postino,1994,108 minutes,7.8,"Biography, Comedy, Drama",36012
+Down by Law,1986,107 minutes,7.7,"Comedy, Crime, Drama",50981
+The Lunchbox,2013,104 minutes,7.8,"Drama, Romance",55045
+Article 15,2019,130 minutes,8.2,"Crime, Drama, Mystery",32172
+Trois couleurs: Blanc,1994,92 minutes,7.6,"Comedy, Drama, Romance",71873
+Haider,2014,160 minutes,8.1,"Action, Crime, Drama",54269
+Au revoir les enfants,1987,104 minutes,8.0,"Drama, War",33385
+Bom yeoreum gaeul gyeoul geurigo bom,2003,103 minutes,8.0,"Drama, Romance",81947
+Vikram Vedha,2017,147 minutes,8.4,"Action, Crime, Drama",36559
+Kakushi-toride no san-akunin,1958,139 minutes,8.1,"Action, Adventure, Drama",38311
+Toki o kakeru shôjo,2006,98 minutes,7.7,"Animation, Adventure, Comedy",64941
+In America,2002,105 minutes,7.7,Drama,42877
+La passion de Jeanne d'Arc,1928,110 minutes,8.2,"Biography, Drama, History",53255
+El ángel exterminador,1962,95 minutes,8.0,"Drama, Fantasy",32661
+Ivanovo detstvo,1962,95 minutes,8.0,"Drama, War",35699
+Les triplettes de Belleville,2003,80 minutes,7.8,"Animation, Comedy, Drama",54012
+"Crna macka, beli macor",1998,127 minutes,8.0,"Comedy, Crime, Romance",53228
+The Broken Circle Breakdown,2012,111 minutes,7.7,"Drama, Music, Romance",40909
+Dare mo shiranai,2004,141 minutes,8.0,Drama,27350
+L'avventura,1960,144 minutes,7.8,"Drama, Mystery, Romance",29225
+Dom za vesanje,1988,142 minutes,8.1,"Comedy, Crime, Drama",30291
+The Lost Weekend,1945,101 minutes,7.9,"Drama, Film-Noir",36412
+Efter brylluppet,2006,120 minutes,7.7,Drama,34316
+Miracle on 34th Street,1947,96 minutes,7.9,"Comedy, Drama, Family",47272
+Sennen joyû,2001,87 minutes,7.8,"Animation, Drama, Fantasy",27050
+Hiroshima mon amour,1959,90 minutes,7.9,"Drama, Romance",31314
+The Magdalene Sisters,2002,114 minutes,7.7,Drama,27056
+Kis Uykusu,2014,196 minutes,8.1,Drama,50922
+The Purple Rose of Cairo,1985,82 minutes,7.7,"Comedy, Fantasy, Romance",51008
+Nostalgia,1983,125 minutes,8.0,Drama,26419
+"Swades: We, the People",2004,210 minutes,8.2,"Drama, Musical",88936
+Kokuhaku,2010,106 minutes,7.7,"Drama, Thriller",38455
+Darbareye Elly,2009,119 minutes,8.0,"Drama, Mystery",52628
+Yume,1990,119 minutes,7.7,"Drama, Fantasy",26023
+Vozvrashchenie,2003,110 minutes,7.9,Drama,45106
+The Big Heat,1953,89 minutes,7.9,"Crime, Film-Noir, Thriller",26333
+Crimes and Misdemeanors,1989,104 minutes,7.8,"Comedy, Drama",57472
+The Gold Rush,1925,95 minutes,8.2,"Adventure, Comedy, Drama",109307
+Jules et Jim,1962,105 minutes,7.7,"Drama, Romance",40785
+White Heat,1949,114 minutes,8.1,"Action, Crime, Drama",32312
+Sherlock Jr.,1924,45 minutes,8.2,"Action, Comedy, Romance",48197
+Vivre sa vie: Film en douze tableaux,1962,80 minutes,7.9,Drama,31035
+Babam ve Oglum,2005,112 minutes,8.3,"Drama, Family",85304
+Celda 211,2009,113 minutes,7.6,"Action, Crime, Drama",66967
+Yeopgijeogin geunyeo,2001,137 minutes,8.0,"Comedy, Drama, Romance",47649
+Dip huet seung hung,1989,111 minutes,7.8,"Action, Crime, Drama",47873
+C.R.A.Z.Y.,2005,129 minutes,7.9,"Comedy, Drama",32678
+Mandariinid,2013,87 minutes,8.1,"Drama, War",45584
+G.O.R.A.,2003,127 minutes,8.1,"Adventure, Comedy, Sci-Fi",61646
+Gongdong gyeongbi guyeok JSA,2000,110 minutes,7.8,"Action, Drama, Thriller",29410
+Talvar,2015,132 minutes,8.1,"Crime, Drama, Mystery",34552
+Duck Soup,1933,69 minutes,7.8,"Comedy, Musical",59576
+Le passé,2013,130 minutes,7.7,"Drama, Mystery",48385
+Da hong deng long gao gao gua,1991,125 minutes,8.1,"Drama, History, Romance",32078
+Masaan,2015,109 minutes,8.1,Drama,27325
+Nueve reinas,2000,114 minutes,7.9,"Crime, Drama, Thriller",52328
+Dil Chahta Hai,2001,183 minutes,8.1,"Comedy, Drama, Romance",71034
+La belle et la bête,1946,96 minutes,7.9,"Drama, Fantasy, Romance",26161
+Bajrangi Bhaijaan,2015,163 minutes,8.1,"Action, Adventure, Comedy",84532
+Du rififi chez les hommes,1955,118 minutes,8.2,"Crime, Drama, Thriller",33546
+La Grande Illusion,1937,113 minutes,8.1,"Drama, War",36133
+Barfi!,2012,151 minutes,8.2,"Comedy, Drama, Romance",80496
+Vera Drake,2004,125 minutes,7.7,"Crime, Drama",25293
+The Circus,1928,72 minutes,8.1,"Comedy, Family, Romance",33200
+Chhichhore,2019,143 minutes,8.5,"Comedy, Drama, Romance",49323
+Bir Zamanlar Anadolu'da,2011,157 minutes,7.9,"Crime, Drama",45725
+A Wednesday,2008,104 minutes,8.1,"Action, Crime, Drama",77809
+Le dîner de cons,1998,80 minutes,7.6,Comedy,41007
+The Shop Around the Corner,1940,99 minutes,8.1,"Comedy, Drama, Romance",32314
+Hana-bi,1997,103 minutes,7.7,"Crime, Drama, Romance",30174
+Jean de Florette,1986,120 minutes,8.1,"Comedy, Drama",25528
+Dilwale Dulhania Le Jayenge,1995,189 minutes,8.1,"Drama, Romance",68050
+Pink,2016,136 minutes,8.1,"Crime, Drama, Thriller",44037
+Rang De Basanti,2006,167 minutes,8.1,"Comedy, Crime, Drama",117969
+Sanjuro,1962,96 minutes,8.0,"Action, Drama, Thriller",37590
+Love and Death,1975,85 minutes,7.7,"Comedy, War",38142
+Central do Brasil,1998,110 minutes,8.0,Drama,39097
+Baby,2015,159 minutes,8.1,"Action, Crime, Thriller",56834
+Joyeux Noël,2005,116 minutes,7.7,"Drama, History, Music",29593
+Udta Punjab,2016,148 minutes,7.8,"Action, Crime, Drama",29894
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,115 minutes,8.0,"Action, Crime, Drama",82280
+Roma città aperta,1945,103 minutes,8.0,"Drama, Thriller, War",26033
+Dil Bechara,2020,101 minutes,8.1,"Comedy, Drama, Romance",128153
+The Muppet Christmas Carol,1992,85 minutes,7.7,"Comedy, Drama, Family",57392
+La règle du jeu,1939,110 minutes,7.9,"Comedy, Drama",28622
+Udaan,2010,134 minutes,8.1,Drama,44613
+Knockin' on Heaven's Door,1997,87 minutes,7.9,"Action, Crime, Comedy",29874
+Eskiya,1996,128 minutes,8.2,"Crime, Drama, Thriller",69443
+Andaz Apna Apna,1994,160 minutes,8.1,"Action, Comedy, Romance",52725
+Taegukgi hwinalrimyeo,2004,140 minutes,8.0,"Action, Drama, War",39427
+96,2018,158 minutes,8.6,"Drama, Romance",28284
+Drishyam,2013,160 minutes,8.3,"Crime, Drama, Thriller",40181
+Zelig,1983,79 minutes,7.7,Comedy,41758
+Auf der anderen Seite,2007,122 minutes,7.8,Drama,31921
+A Night at the Opera,1935,96 minutes,7.8,"Comedy, Music, Musical",32555
+Vicky Donor,2012,126 minutes,7.8,"Comedy, Romance",42676
+Paan Singh Tomar,2012,135 minutes,8.2,"Action, Biography, Crime",35828
+Airlift,2016,130 minutes,8.1,"Drama, History",56296
+Dev.D,2009,144 minutes,8.0,"Comedy, Drama, Romance",30362
+Sholay,1975,204 minutes,8.1,"Action, Adventure, Comedy",54876
+Drishyam 2,2021,152 minutes,8.6,"Crime, Drama, Thriller",34439
+Asuran,2019,141 minutes,8.6,"Action, Drama",25919
+Munna Bhai M.B.B.S.,2003,156 minutes,8.1,"Comedy, Drama",79995
+Veer-Zaara,2004,192 minutes,7.9,"Drama, Family, Musical",52148
+Chak De! India,2007,153 minutes,8.2,"Drama, Family, Sport",78941
+OMG: Oh My God!,2012,125 minutes,8.2,"Comedy, Drama, Fantasy",57236
+Hindi Medium,2017,132 minutes,7.9,"Comedy, Drama",27796
+Hera Pheri,2000,156 minutes,8.1,"Action, Comedy, Crime",64810
+Jab We Met,2007,138 minutes,7.9,"Comedy, Drama, Romance",51770
+Bhaag Milkha Bhaag,2013,186 minutes,8.3,"Biography, Drama, Sport",66595
+Queen,2013,146 minutes,8.2,"Adventure, Comedy, Drama",64893
+Special Chabbis,2013,144 minutes,8.1,"Crime, Drama, Thriller",55347
+Vizontele,2001,110 minutes,8.0,"Comedy, Drama",36214
+Kahaani,2012,122 minutes,8.1,"Mystery, Thriller",62107
+English Vinglish,2012,134 minutes,7.9,"Comedy, Drama, Family",35818
+Nefes: Vatan Sagolsun,2009,128 minutes,8.1,"Action, Drama, Thriller",33414
+Black,2005,122 minutes,8.2,Drama,34688
+Lage Raho Munna Bhai,2006,144 minutes,8.1,"Comedy, Drama, Romance",46310
+Sarfarosh,1999,174 minutes,8.1,"Action, Drama, Thriller",25414
+Anand,1971,122 minutes,8.1,"Drama, Musical",33418
